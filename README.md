@@ -20,7 +20,12 @@ An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Mu
 
 </p>
 
-## To add your own Sound:
+## Generating your own Sound:
+
+
+<img width="1529" alt="image" src="https://github.com/mdabir1203/Pomodoro_Bang/assets/66947064/f8f4b6aa-118c-436f-a306-19a6713bfac7">
+
+
 
 ``` cd Sound ```
 
