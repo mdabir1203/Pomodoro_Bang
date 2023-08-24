@@ -14,8 +14,9 @@ An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Mu
 
 ``` ./pomodoro_timer.sh ```
 
-
-[![Preview](https://github.com/mdabir1203/Pomodoro_Bang/assets/66947064/77b34aa8-7195-4241-bf19-718b4324b839)]
+<p align="center">
+<img src="https://github.com/mdabir1203/Pomodoro_Bang/assets/66947064/77b34aa8-7195-4241-bf19-718b4324b839"  width="400px" alt="bonus"/><br>
+</p>
 
 
 Follow the prompts to select your operating system, set the timer duration, enter a completion message, and choose whether to include a sound notification.
