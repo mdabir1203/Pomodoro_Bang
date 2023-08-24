@@ -15,7 +15,9 @@ An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Mu
 ``` ./pomodoro_timer.sh ```
 
 <p align="center">
-<img src="https://github.com/mdabir1203/Pomodoro_Bang/assets/66947064/77b34aa8-7195-4241-bf19-718b4324b839"  width="400px" alt="bonus"/><br>
+
+![Anime](https://github.com/mdabir1203/Pomodoro_Bang/assets/66947064/64df68e2-6480-4350-8fca-28c04ad61523)
+
 </p>
 
 
