@@ -1,4 +1,4 @@
-# Pomodoro_Timer_Bang
+# AI_Pomodoro_Timer_Script
 An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Music (Audiogen) and Custom Message
 
 ## Clone the repository:
@@ -29,6 +29,7 @@ Follow the prompts to select your operating system, set the timer duration, ente
 - terminal-notifier command-line tool (for macOS)
 - afplay command-line tool (for macOS sound notification)
 - brew
+- [AudioGen Library] (https://github.com/facebookresearch/audiocraft)
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
