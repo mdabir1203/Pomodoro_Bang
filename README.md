@@ -20,6 +20,11 @@ An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Mu
 
 </p>
 
+## To add your own Sound:
+
+``` cd Sound ```
+
+Then add put your mp3 file there
 
 Follow the prompts to select your operating system, set the timer duration, enter a completion message, and choose whether to include a sound notification.
 
