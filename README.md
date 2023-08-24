@@ -1,5 +1,5 @@
 # Pomodoro_Timer_Bang
-An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Music (Audiogen)
+An AI crafted Shell script to run a Pomodoro Program with your Own AI Crafted Music (Audiogen) and Custom Message
 
 ## Clone the repository:
 
